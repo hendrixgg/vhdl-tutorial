@@ -1,0 +1,7 @@
+C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd {1 {vcom -work work -2002 -explicit C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity T01_HelloWorldTb
+-- Compiling architecture sim of T01_HelloWorldTb
+
+} {} {}}

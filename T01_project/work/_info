@@ -11,26 +11,88 @@ Z3 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd
 l0
 L1
 V:AlJFK]Vh[]O=nMT1j8;V1
-!s100 FeIB7e`VR>VJLg2Q@`OKQ3
 Z4 OV;C;10.1d;51
 32
-!i10b 1
 Z5 !s108 1696392935.595000
 Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd|
 Z7 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd|
 Z8 o-work work -2002 -explicit -O0
 Z9 tExplicit 1
+!s100 FeIB7e`VR>VJLg2Q@`OKQ3
+!i10b 1
 Asim
 DEx4 work 16 t01_helloworldtb 0 22 :AlJFK]Vh[]O=nMT1j8;V1
 l5
 L4
 Vb9@4Y4eQW6^<DGOim@2Be1
-!s100 J;Ebn1EFY0i<j;Um0QY[X2
 R4
 32
-!i10b 1
 R5
 R6
 R7
+R8
+R9
+!s100 J;Ebn1EFY0i<j;Um0QY[X2
+!i10b 1
+Et01_waitfortb
+Z10 w1696395129
+R1
+Z11 8C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd
+Z12 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd
+l0
+L1
+Vj[cRFDB5KH36G2g=zcUTW1
+R4
+32
+Z13 !s108 1696395259.785000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd|
+Z15 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd|
+R8
+R9
+!s100 DH>PWodjD9A]MWeEIL42[3
+!i10b 1
+Asim
+DEx4 work 13 t01_waitfortb 0 22 j[cRFDB5KH36G2g=zcUTW1
+l5
+L4
+V]eOZ4>>ZQMlLMUMW0cFKZ0
+!s100 OekFCW=ggb4=jZT:K]MB^1
+R4
+32
+R13
+R14
+R15
+R8
+R9
+!i10b 1
+Et02_waitfortb
+Z16 w1696426833
+R1
+R11
+R12
+l0
+L1
+VhF]`JiLF7YD1<l7AE2>Ab3
+!s100 zXR@FQ84ja;5JIT^Ke1H12
+R4
+32
+!i10b 1
+Z17 !s108 1696426847.437000
+R14
+Z18 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd|
+R8
+R9
+Asim
+DEx4 work 13 t02_waitfortb 0 22 hF]`JiLF7YD1<l7AE2>Ab3
+l5
+L4
+V`GRIO1zh118Tdn;`Kf1Yn0
+!s100 jCl[DC<9Nhi;P1_7nAI><1
+R4
+32
+!i10b 1
+R17
+R14
+R18
 R8
 R9
