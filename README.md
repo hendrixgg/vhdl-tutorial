@@ -57,4 +57,4 @@ signal SignalName : Signaltype := InitialValue;
 
 The "<=" is the signal assignment operator that allows you to assign a new value to a signal.
 
-Signals only get updated when the process pauses, their new value is assigned according to the last signal assignment in a given process.
+Signals only get updated when the process is paused, their new value is assigned according to the last signal assignment in the process.
