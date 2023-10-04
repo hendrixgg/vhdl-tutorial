@@ -56,7 +56,6 @@ DEx4 work 13 t01_waitfortb 0 22 j[cRFDB5KH36G2g=zcUTW1
 l5
 L4
 V]eOZ4>>ZQMlLMUMW0cFKZ0
-!s100 OekFCW=ggb4=jZT:K]MB^1
 R4
 32
 R13
@@ -64,6 +63,7 @@ R14
 R15
 R8
 R9
+!s100 OekFCW=ggb4=jZT:K]MB^1
 !i10b 1
 Et02_waitfortb
 Z16 w1696426833
@@ -73,26 +73,57 @@ R12
 l0
 L1
 VhF]`JiLF7YD1<l7AE2>Ab3
-!s100 zXR@FQ84ja;5JIT^Ke1H12
 R4
 32
-!i10b 1
 Z17 !s108 1696426847.437000
 R14
-Z18 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T02_WaitForTb.vhd|
+R15
 R8
 R9
+!s100 zXR@FQ84ja;5JIT^Ke1H12
+!i10b 1
 Asim
 DEx4 work 13 t02_waitfortb 0 22 hF]`JiLF7YD1<l7AE2>Ab3
 l5
 L4
 V`GRIO1zh118Tdn;`Kf1Yn0
+R4
+32
+R17
+R14
+R15
+R8
+R9
 !s100 jCl[DC<9Nhi;P1_7nAI><1
+!i10b 1
+Et03_looptb
+Z18 w1696427231
+R1
+Z19 8C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd
+Z20 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd
+l0
+L1
+V0>:_;>CSL:eonH=>?YA[Z3
+!s100 C5Y3:LkR4Q[;ZAV<e54o02
 R4
 32
 !i10b 1
-R17
-R14
-R18
+Z21 !s108 1696427234.034000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd|
+Z23 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd|
+R8
+R9
+Asim
+Z24 DEx4 work 10 t03_looptb 0 22 0>:_;>CSL:eonH=>?YA[Z3
+l5
+L4
+V6dUb^7^MkkZTb_:i7cVkU0
+!s100 ?HG9EKcAB3^5=H6mFf<I00
+R4
+32
+!i10b 1
+R21
+R22
+R23
 R8
 R9

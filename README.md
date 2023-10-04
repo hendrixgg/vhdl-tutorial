@@ -21,10 +21,12 @@ This causes the process to wait at this line and not continue.
 ### wait for {{time amount}}
 This causes the process to wait for the amount of time specified by {{time amount}}.
 ### loop
-This causes the process to loop.
+This causes the process to loop. You end the loop block by writing "end loop;" on a newline. 
+
+You exit a loop by writing "exit;" on a line inside of the loop block. This causes the loop to stop looping.
 ## report
 prints to the screen when running the simulation in ModelSim.
 ## Running Hardware Simulation in ModelSim
 follow this video: https://youtu.be/h4ZXge1BE80?si=6p-A6naXtoKG95s6
 ## comments
-Comments in VHDL always start with a --.
+Comments in VHDL always start with a "--".
