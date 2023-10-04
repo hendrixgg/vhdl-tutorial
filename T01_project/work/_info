@@ -13,7 +13,7 @@ L1
 V:AlJFK]Vh[]O=nMT1j8;V1
 Z4 OV;C;10.1d;51
 32
-Z5 !s108 1696392935.595000
+Z5 !s108 1696428727.638000
 Z6 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd|
 Z7 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T01_HelloWorldTb.vhd|
 Z8 o-work work -2002 -explicit -O0
@@ -75,7 +75,7 @@ L1
 VhF]`JiLF7YD1<l7AE2>Ab3
 R4
 32
-Z17 !s108 1696426847.437000
+Z17 !s108 1696428727.700000
 R14
 R15
 R8
@@ -97,7 +97,7 @@ R9
 !s100 jCl[DC<9Nhi;P1_7nAI><1
 !i10b 1
 Et03_looptb
-Z18 w1696427231
+Z18 w1696427322
 R1
 Z19 8C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd
 Z20 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd
@@ -106,7 +106,7 @@ L1
 V0>:_;>CSL:eonH=>?YA[Z3
 R4
 32
-Z21 !s108 1696427234.034000
+Z21 !s108 1696428727.755000
 Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd|
 Z23 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T03_LoopTb.vhd|
 R8
@@ -128,33 +128,95 @@ R9
 !s100 ?HG9EKcAB3^5=H6mFf<I00
 !i10b 1
 Et04_forlooptb
-Z24 w1696427470
+Z24 w1696427568
 R1
 Z25 8C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T04_ForLoopTb.vhd
 Z26 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T04_ForLoopTb.vhd
 l0
 L1
 Ve@^n6WS]nZfD0i^4ODPlg2
-!s100 H`GkYa=;HjR^BbNDoT^O<2
 R4
 32
-!i10b 1
-Z27 !s108 1696427478.433000
+Z27 !s108 1696428727.813000
 Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T04_ForLoopTb.vhd|
 Z29 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T04_ForLoopTb.vhd|
 R8
 R9
+!s100 H`GkYa=;HjR^BbNDoT^O<2
+!i10b 1
 Asim
 DEx4 work 13 t04_forlooptb 0 22 e@^n6WS]nZfD0i^4ODPlg2
 l5
 L4
 VXF^GkNUzE2aA2z5HH0]2R1
-!s100 z[3kiF>oijX5F`Mh@3ck[3
 R4
 32
-!i10b 1
 R27
 R28
 R29
+R8
+R9
+!s100 z[3kiF>oijX5F`Mh@3ck[3
+!i10b 1
+Et05_whilelooptb
+Z30 w1696429009
+R1
+Z31 8C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T06_SignalTb.vhd
+Z32 FC:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T06_SignalTb.vhd
+l0
+L1
+VKb;MJ6@L0C@C]eeUoZ[c=1
+R4
+32
+Z33 !s108 1696429129.354000
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T06_SignalTb.vhd|
+Z35 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T06_SignalTb.vhd|
+R8
+R9
+!s100 hi1X6WAeX5WX]<T1PdWnU2
+!i10b 1
+Asim
+DEx4 work 15 t05_whilelooptb 0 22 Kb;MJ6@L0C@C]eeUoZ[c=1
+l8
+L4
+VN@>YDT^gPY2fmz6h^4]Fd3
+R4
+32
+R33
+R34
+R35
+R8
+R9
+!s100 jWa@L=A:LB``iRLQGUD950
+!i10b 1
+Et06_signaltb
+Z36 w1696429550
+R1
+R31
+R32
+l0
+L1
+V8aWaFDjHkjUFgl=eh05dM2
+!s100 CAWTf]I[j;6nWbMjLoDW73
+R4
+32
+!i10b 1
+Z37 !s108 1696429552.892000
+R34
+Z38 !s107 C:/Users/Hendrix/Documents/GitHub/vhdl-tutorial/T06_SignalTb.vhd|
+R8
+R9
+Asim
+Z39 DEx4 work 12 t06_signaltb 0 22 8aWaFDjHkjUFgl=eh05dM2
+l8
+L4
+V>CXaj7NoHFzE26jehLAIl1
+!s100 35a20>D8nDHb4^9>zQ9kj2
+R4
+32
+!i10b 1
+R37
+R34
+R38
 R8
 R9
