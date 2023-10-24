@@ -20,4 +20,4 @@ begin
 
     end process;
 
-end architecture T05_WhileLoopTb;
+end architecture sim;

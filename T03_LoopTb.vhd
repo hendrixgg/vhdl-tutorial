@@ -22,4 +22,4 @@ begin
         wait;
     end process;
 
-end architecture T03_LoopTb;
+end architecture sim;

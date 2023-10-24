@@ -29,4 +29,4 @@ begin
 
     end process;
 
-end architecture T06_SignalTb;
+end architecture sim;

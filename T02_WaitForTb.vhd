@@ -14,4 +14,4 @@ begin
         -- The process will loop back to the start from here.
     end process;
 
-end architecture T02_WaitForTb;
+end architecture sim;

@@ -12,4 +12,4 @@ begin
         
     end process;
 
-end architecture T01_HelloWorldTb;
+end architecture sim;

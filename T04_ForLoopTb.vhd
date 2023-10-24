@@ -15,4 +15,4 @@ begin
 
     end process;
 
-end architecture T04_ForLoopTb;
+end architecture sim;
