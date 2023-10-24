@@ -1,5 +1,5 @@
 entity T01_HelloWorldTb is
-end entity;
+end entity T01_HelloWorldTb;
 
 architecture sim of T01_HelloWorldTb is
 begin
@@ -12,4 +12,4 @@ begin
         
     end process;
 
-end architecture;
+end architecture T01_HelloWorldTb;

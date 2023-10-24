@@ -20,6 +20,8 @@ The code inside of a process is executed sequentially, one line at a time from t
 This causes the process to wait at this line and not continue.
 ### wait for {{time amount}}
 This causes the process to wait for the amount of time specified by {{time amount}}.
+
+This statement is only to be used in simulations. This doesn't actually work in hardware.
 ### loop
 This causes the process to loop. You end the loop block by writing "end loop;" on a newline. 
 

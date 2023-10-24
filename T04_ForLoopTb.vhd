@@ -1,5 +1,5 @@
 entity T04_ForLoopTb is
-end entity;
+end entity T04_ForLoopTb;
 
 architecture sim of T04_ForLoopTb is
 begin
@@ -15,4 +15,4 @@ begin
 
     end process;
 
-end architecture;
+end architecture T04_ForLoopTb;

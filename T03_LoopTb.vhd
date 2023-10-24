@@ -1,5 +1,5 @@
 entity T03_LoopTb is
-end entity;
+end entity T03_LoopTb;
 
 architecture sim of T03_LoopTb is
 begin
@@ -22,4 +22,4 @@ begin
         wait;
     end process;
 
-end architecture;
+end architecture T03_LoopTb;

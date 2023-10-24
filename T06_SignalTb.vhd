@@ -1,5 +1,5 @@
 entity T06_SignalTb is
-end entity;
+end entity T06_SignalTb;
 
 architecture sim of T06_SignalTb is
 
@@ -29,4 +29,4 @@ begin
 
     end process;
 
-end architecture;
+end architecture T06_SignalTb;

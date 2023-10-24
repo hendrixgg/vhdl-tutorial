@@ -1,5 +1,5 @@
 entity T02_WaitForTb is
-end entity;
+end entity T02_WaitForTb;
 
 architecture sim of T02_WaitForTb is
 begin
@@ -14,4 +14,4 @@ begin
         -- The process will loop back to the start from here.
     end process;
 
-end architecture;
+end architecture T02_WaitForTb;

@@ -1,5 +1,5 @@
 entity T05_WhileLoopTb is
-end entity;
+end entity T05_WhileLoopTb;
 
 architecture sim of T05_WhileLoopTb is
 begin
@@ -20,4 +20,4 @@ begin
 
     end process;
 
-end architecture;
+end architecture T05_WhileLoopTb;
