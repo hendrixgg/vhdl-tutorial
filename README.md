@@ -1,7 +1,9 @@
 # vhdl-tutorial
- Following along with vhdlwiz.com youtube tutorial on how to use vhdl.
+Following along with vhdlwiz.com youtube tutorial on how to use vhdl.
 
- another good source: https://www.arl.wustl.edu/~jon.turner/cse/260/vhdl/tutorial
+other good sources: 
+- https://www.arl.wustl.edu/~jon.turner/cse/260/vhdl/tutorial
+- https://www.vhdl-online.de/courses/system_design/vhdl_language_and_syntax/start
 # Naming Conventions
 Tb - stands for "Test Bench"
 # Notes
